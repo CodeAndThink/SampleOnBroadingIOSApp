@@ -49,7 +49,7 @@ class ViewController: UIViewController {
         
         NSLayoutConstraint.activate([
             // Set layout for skipButton
-            skipButton.leadingAnchor.constraint(equalTo: mainView.leadingAnchor, constant: 58),
+            skipButton.leadingAnchor.constraint(equalTo: mainView.leadingAnchor, constant: 81),
             skipButton.bottomAnchor.constraint(equalTo: mainView.bottomAnchor, constant: -73),
             
             // Set layout for nextButton
